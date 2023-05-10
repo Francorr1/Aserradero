@@ -1,0 +1,10 @@
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\bin\Debug\Aserradero.exe.config
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\bin\Debug\Aserradero.exe
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\bin\Debug\Aserradero.pdb
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\obj\Debug\Aserradero.csprojAssemblyReference.cache
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\obj\Debug\Aserradero.Form1.resources
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\obj\Debug\Aserradero.Properties.Resources.resources
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\obj\Debug\Aserradero.csproj.GenerateResource.cache
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\obj\Debug\Aserradero.csproj.CoreCompileInputs.cache
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\obj\Debug\Aserradero.exe
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero\obj\Debug\Aserradero.pdb

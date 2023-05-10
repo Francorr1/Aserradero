@@ -1,0 +1,99 @@
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.Properties.Resources.resources
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csproj.GenerateResource.cache
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csproj.CoreCompileInputs.cache
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.pdb
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.pdb
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csprojAssemblyReference.cache
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csproj.CopyComplete
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.pdb
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\MySql.Data.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Google.Protobuf.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Zstandard.Net.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\BouncyCastle.Crypto.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Ubiety.Dns.Core.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Memory.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Buffers.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Hash.xxHash.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\MySql.Data.xml
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.dll
+E:\Users\Gabriel\Desktop\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.pdb
+D:\UserData\Documentos\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csprojResolveAssemblyReference.cache
+D:\UserData\Documentos\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.Properties.Resources.resources
+D:\UserData\Documentos\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csproj.GenerateResource.Cache
+D:\UserData\Documentos\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.dll
+D:\UserData\Documentos\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.pdb
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.Properties.Resources.resources
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.pdb
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.pdb
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\MySql.Data.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.pdb
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.pdb
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csprojResolveAssemblyReference.cache
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.Properties.Resources.resources
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csproj.GenerateResource.Cache
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.pdb
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Google.Protobuf.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Zstandard.Net.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Memory.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Buffers.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\condu\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\MySql.Data.xml
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.pdb
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Google.Protobuf.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Zstandard.Net.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.pdb
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.pdb
+C:\Users\Usuario\Documents\GitHub\Aserradero\Programa\Aserradero.Logica\bin\Debug\MySql.Data.xml
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Aserradero.Logica.pdb
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\MySql.Data.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Google.Protobuf.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Zstandard.Net.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\BouncyCastle.Crypto.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Ubiety.Dns.Core.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\System.Memory.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\System.Buffers.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\K4os.Compression.LZ4.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\K4os.Hash.xxHash.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Aserradero.Datos.pdb
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\Aserradero.Entidades.pdb
+E:\Disco proyecto\Programa\Aserradero.Logica\bin\Debug\MySql.Data.xml
+E:\Disco proyecto\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csprojResolveAssemblyReference.cache
+E:\Disco proyecto\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.Properties.Resources.resources
+E:\Disco proyecto\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.csproj.GenerateResource.Cache
+E:\Disco proyecto\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.dll
+E:\Disco proyecto\Programa\Aserradero.Logica\obj\Debug\Aserradero.Logica.pdb

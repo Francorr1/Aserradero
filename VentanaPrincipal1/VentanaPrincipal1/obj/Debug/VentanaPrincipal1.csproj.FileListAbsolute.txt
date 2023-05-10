@@ -1,0 +1,30 @@
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.exe.config
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.exe
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.pdb
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.csprojResolveAssemblyReference.cache
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.Form1.resources
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.Properties.Resources.resources
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.csproj.GenerateResource.Cache
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.exe
+e:\user data\documentos\visual studio 2015\Projects\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.pdb
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.exe.config
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.exe
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.pdb
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.exe
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.pdb
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.csprojResolveAssemblyReference.cache
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.Form1.resources
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.Properties.Resources.resources
+C:\Users\yaelc\Desktop\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.csproj.GenerateResource.Cache
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.exe.config
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.exe
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.pdb
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.exe
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.pdb
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.csprojResolveAssemblyReference.cache
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.Form1.resources
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.Properties.Resources.resources
+D:\UserData\Escritorio\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.csproj.GenerateResource.Cache
+D:\UserData\Escritorio\Utu\VentanaPrincipal1\VentanaPrincipal1\bin\Debug\VentanaPrincipal1.exe.config
+D:\UserData\Escritorio\Utu\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.exe
+D:\UserData\Escritorio\Utu\VentanaPrincipal1\VentanaPrincipal1\obj\Debug\VentanaPrincipal1.pdb

@@ -1,0 +1,21 @@
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe.config
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\bin\Debug\InicioSesion.pdb
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csprojResolveAssemblyReference.cache
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Form1.resources
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.Cache
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\obj\Debug\InicioSesion.exe
+e:\user data\documentos\visual studio 2015\Projects\InicioSesion\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe.config
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\obj\Debug\InicioSesion.exe
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\obj\Debug\InicioSesion.pdb
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\bin\Debug\InicioSesion.pdb
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csprojResolveAssemblyReference.cache
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Form1.resources
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\obj\Debug\InicioSesion.Properties.Resources.resources
+C:\Users\yaelc\Desktop\InicioSesion\InicioSesion\obj\Debug\InicioSesion.csproj.GenerateResource.Cache
+D:\UserData\Escritorio\InicioSesion\InicioSesion\bin\Debug\InicioSesion.exe.config
+D:\UserData\Escritorio\InicioSesion\InicioSesion\obj\Debug\InicioSesion.exe
+D:\UserData\Escritorio\InicioSesion\InicioSesion\obj\Debug\InicioSesion.pdb
